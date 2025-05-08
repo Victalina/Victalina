@@ -3,10 +3,13 @@
 ____
 
 ### Language
+
 <a href="https://www.java.com/"><img src="icons/java.svg" width="50" height="50"  alt="Java"/></a>
+
 ____
 
 ### Tools
+
 <p align="left">  
 <a href="https://www.jetbrains.com/idea/"><img src="icons/intellij-idea.svg" width="50" height="50"  alt="IDEA"/></a>
 <a href="https://github.com/"><img src="icons/github.svg" width="50" height="50"  alt="Github"/></a>

@@ -8,7 +8,7 @@ ____
 ____
 
 ### Tools
-<p align="center">  
+<p align="left">  
 <a href="https://www.jetbrains.com/idea/"><img src="icons/intellij-idea.svg" width="50" height="50"  alt="IDEA"/></a>
 <a href="https://github.com/"><img src="icons/github.svg" width="50" height="50"  alt="Github"/></a>
 <a href="https://junit.org/junit5/"><img src="icons/junit5.svg" width="50" height="50"  alt="JUnit 5"/></a>  

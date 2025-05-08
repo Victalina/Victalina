@@ -1,10 +1,9 @@
-<h1>Hi there 👋, I'm Vicky</h1>
-<h3>QA engineer</h3>
-
+# Hi there 👋, I'm Vicky</h1>
+### QA engineer</h3>
 ____
+
 ### Language
 <a href="https://www.java.com/"><img src="icons/java.svg" width="50" height="50"  alt="Java"/></a>
-
 ____
 
 ### Tools

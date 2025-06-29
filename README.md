@@ -34,9 +34,9 @@ ____
 **QA GURU** ([Test Automation course on JAVA](https://qa.guru/java))
 
 
-[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=Victalina&repo=nspk_ui_tests&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/Victalina/nspk_ui_tests)
-[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=Victalina&repo=reqres_api_tests&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/Victalina/reqres_api_tests)
-[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=Victalina&repo=wikipedia_mobile_tests&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/Victalina/wikipedia_mobile_tests)
+[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=Victalina&repo=nspk_ui_tests&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=e1c3ff)](https://github.com/Victalina/nspk_ui_tests)
+[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=Victalina&repo=reqres_api_tests&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=e1c3ff)](https://github.com/Victalina/reqres_api_tests)
+[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=Victalina&repo=wikipedia_mobile_tests&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=e1c3ff)](https://github.com/Victalina/wikipedia_mobile_tests)
 
 ____
 

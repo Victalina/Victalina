@@ -1,50 +1,107 @@
 ## 👋 Hi, I’m Victoria — QA Engineer (Manual + Automation)
 
-QA Engineer с опытом тестирования web, API и mobile-приложений.  
-Основной фокус — **ручное тестирование**, автоматизация используется для регресса и критичных сценариев.
+QA-инженер с опытом тестирования **web, API и mobile-приложений**.
+Основной фокус — ручное тестирование, автоматизация использую для регресса, критичных сценариев и построения стабильного тестового покрытия.
+
+Интересуюсь развитием в направлении **Manual + Automation QA**, архитектурой автотестов и CI/CD.
 
 ---
 
-### 🔧 Tech Stack
-- **Manual QA:** functional, regression, smoke, integration testing  
-- **Automation:** Java, JUnit, Selenide, RestAssured  
-- **API:** REST, JSON, Postman  
-- **UI:** Web testing, DevTools  
-- **Mobile:** Android (Appium)  
-- **Databases:** SQL  
-- **Tools:** Git, Jenkins, Allure, Jira, Confluence  
+### 🔧 Технический стек
+#### 🧪 Ручное тестирование
+
+- Функциональное тестирование
+- Регрессионное тестирование
+- Smoke / интеграционное тестирование
+- Анализ требований
+- Написание тест-кейсов
+- Заведение и анализ дефектов
+
+#### 🤖 Автоматизация
+
+- Java
+- JUnit 5
+- Selenide
+- RestAssured
+
+#### 🌐 Web / API
+
+- REST
+- JSON
+- Postman
+- DevTools
+
+#### 📱 Mobile
+
+- Android
+- Appium
+
+#### 🗄 Базы данных
+
+- SQL (написание запросов средней сложности)
+
+#### ⚙️ Инструменты
+
+- Git
+- Jenkins
+- Allure
+- Docker
+- Jira
+- Confluence
 
 ---
 
-### 📌 Selected Projects
+### 📌 Проекты
+
+#### 🔹 Full UI + API Automation Framework
+**demoblaze-ui-api-tests**
+Демо-проект автоматизации тестирования веб-приложения, покрывающий как API, так и UI уровень.
+
+Что реализовано:
+- Разделение слоёв (API / UI / модели / конфигурация)
+- Page Object Pattern
+- API-клиенты и модели ответов
+- Запуск в удалённом браузере (Selenoid)
+- Запись видео прохождения тестов
+- Интеграция с Allure
+- Готовность к запуску в Jenkins
+
+Технологии:
+- Java
+- JUnit 5
+- RestAssured
+- Selenide
+- Docker / Selenoid
+- Jenkins
+
+👉 https://github.com/Victalina/demoblaze-ui-api-tests
 
 #### 🔹 UI Automation (Java)
 **nspk_ui_tests**  
 Автоматизация web-приложения с использованием Java + Selenide.  
 Проект демонстрирует подход к автоматизации регрессионного тестирования и формированию отчётов.
-- Java, Selenide, JUnit
+- Java
+- Selenide
+- JUnit
 - Allure reports
-- Jenkins CI
+- Jenkins
 
 👉 https://github.com/Victalina/nspk_ui_tests
 
 ---
 
-#### 🔹 API Automation
-**reqres_api_tests**  
-Автоматизированное тестирование REST API с проверкой бизнес-сценариев и негативных кейсов.
-- Java, RestAssured
-- JSON schema validation
-- Allure reports
+### 📜 Сертификация
 
-👉 https://github.com/Victalina/reqres_api_tests
+- ISTQB Certified Tester
 
 ---
 
-### 🚀 About Me
-Имею сильный опыт ручного тестирования (API, SQL, web, mobile).  
-Интересуюсь развитием в направлении **Manual + Automation QA** и применением автоматизации в реальных проектах.
+### 🚀 О себе
+Имею сильную базу в ручном тестировании (API, SQL, web, mobile).
+Постепенно усиливаю экспертизу в автоматизации, архитектуре автотестов и CI.
+
+Интересны проекты, где можно совмещать **ручное тестирование и автоматизацию**, развивая качество продукта системно.
 
 ---
 
-📫 Open to QA opportunities
+📫 Открыта к предложениям по QA-позициям

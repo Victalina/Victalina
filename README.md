@@ -71,7 +71,7 @@ QA-инженер с опытом тестирования **web, API и mobile-
 - JUnit 5
 - RestAssured
 - Selenide
-- Docker / Selenoid
+- Selenoid
 - Jenkins
 
 👉 https://github.com/Victalina/demoblaze-ui-api-tests
